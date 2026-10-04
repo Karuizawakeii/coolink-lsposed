@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">链净 CoolLink</string>
+    <string name="xposed_desc">还原酷安帖子与评论区的追踪短链为原始链接，并去掉分享跟踪参数。</string>
+</resources>
